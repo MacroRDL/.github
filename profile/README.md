@@ -1,0 +1,1 @@
+O macrossistema RDL se pauta na extração dos dados do Cigam, RH Cigam, GDS, E-commerce, Sistemas Internos entre outros, afim de prover uma base solida de informações qualificadas para a análise e melhoria dos processos e desenvolvimento e extração de relatórios.
